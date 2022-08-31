@@ -1,0 +1,2 @@
+# pokedex
+Prueba SatoriTech
